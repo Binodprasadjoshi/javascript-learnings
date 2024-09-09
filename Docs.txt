@@ -1,0 +1,5 @@
+Types of functions
+-> Named functions
+-> Immidiately invoked function expression = defined and executed Immidiately
+-> Arrow function = consice way, syntax => const square = (x) => x*x;
+-> Anynonymous function = without a name
